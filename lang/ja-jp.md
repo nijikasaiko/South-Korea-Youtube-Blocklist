@@ -19,7 +19,7 @@
 
 2. **[releases](https://github.com/nijikasaiko/South-Korea-Youtube-Blocklist/releases)** に入って**最新**のバージョンをダウンロードします。
 
-3. さっきのファイルを解凍します。
+3. **さっきのファイル**を**解凍**します。
 
 4. **BlockTube Options** に入ります。
 
