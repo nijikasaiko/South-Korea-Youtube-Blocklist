@@ -18,6 +18,6 @@ Blocks South Korea Contents on Youtube using [BlockTube](https://github.com/amit
 
 3. Go to **BlockTube Options**.
 
-4. Click **import** and Open **filter.json** in the Releases File so that the Extension can block South Korea Contents.
+4. Click **import** and Open **[filter.json](./filter.json)** in the Releases File so that the Extension can block South Korea Contents.
 
 5. Enjoy!
