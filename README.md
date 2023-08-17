@@ -1,4 +1,4 @@
-[日本語(未完成)](./lang/ja-jp.md)
+[日本語](./lang/ja-jp.md)
 
 
 # South-Korea-Youtube-Blocklist
