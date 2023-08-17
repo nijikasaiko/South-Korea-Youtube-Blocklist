@@ -15,14 +15,14 @@
 
 
 ## 使い方
-1. **[ここ](https://chrome.google.com/webstore/detail/blocktube/bbeaicapbccfllodepmimpkgecanonai)** を押して拡張を追加します。
+1. **[ここ](https://chrome.google.com/webstore/detail/blocktube/bbeaicapbccfllodepmimpkgecanonai)** を押して**拡張を追加**します。
 
-2. **[releases](https://github.com/nijikasaiko/South-Korea-Youtube-Blocklist/releases)** に入って**最新**のバージョンをダウンロードします。
+2. **[releases](https://github.com/nijikasaiko/South-Korea-Youtube-Blocklist/releases)** に入って**最新のバージョン**を**ダウンロード**します。
 
 3. **さっきのファイル**を**解凍**します。
 
-4. **BlockTube Options** に入ります。
+4. **BlockTube Options** に**入ります**。
 
-5. **import**を押して **[filter.json](./filter.json)** を呼び出します。
+5. **import**を押して **[filter.json](./filter.json)** を**呼び出し**ます。
 
 6. 終わりました！
