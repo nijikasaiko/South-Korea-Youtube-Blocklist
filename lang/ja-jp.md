@@ -23,6 +23,6 @@
 
 4. **BlockTube Options** に**入ります**。
 
-5. **import**を押して **[filter.json](./filter.json)** を**呼び出し**ます。
+5. **import**を押して **[filter.json](https://github.com/nijikasaiko/South-Korea-Youtube-Blocklist/blob/main/filter.json)** を**呼び出し**ます。
 
 6. 終わりました！
