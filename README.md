@@ -1,17 +1,19 @@
-[日本語](./lang/ja-jp.md)
-
-
 # South-Korea-Youtube-Blocklist
 <a>
-  <img src="./pics/nokr.jpg" width="96"/>
+  <img title="No South Korea Youtube ANYMORE!" src="./pics/nokr.jpg" width="96"/>
 </a>
 
 Blocks South Korea Contents on Youtube using [BlockTube](https://github.com/amitbl/blocktube) Web Extension.
 
-## Blocking Target
-1. **11186** Korean Characters on All of Videos, Channels, Comments.
+## Supported Languages
+<a href="./lang/ja-jp.md">
+  <img title="日本語で見る" src="./pics/hinomaru.jpg" width="96"/>
+</a>
 
-2. Channels and Comments **related to K-POP**.
+## Blocking Target
+1. **11186** Korean Characters on All of Videos, Channels, and Comments.
+
+2. Channels and Comments **related to K-POP, K-Entertainment, etc**.
 
 ## How to use
 1. Click **[here](https://chrome.google.com/webstore/detail/blocktube/bbeaicapbccfllodepmimpkgecanonai)** to download BlockTube Chrome Extension.
