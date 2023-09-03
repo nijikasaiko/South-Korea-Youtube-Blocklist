@@ -10,7 +10,7 @@
 韓国語に書かれているか韓国に関する動画やチャンネル、コメントなどをブロックします。
 
 ## 機能
-1. **11172字**のハングル (共通)
+1. **11186字**のハングル (共通)
 2. **K-POPに関する**チャンネルやコメントなど
 
 
@@ -23,6 +23,6 @@
 
 4. **BlockTube Options** に**入ります**。
 
-5. **import**を押して **[filter.json](./filter.json)** を**呼び出し**ます。
+5. **import**を押して **[filter.json](https://github.com/nijikasaiko/South-Korea-Youtube-Blocklist/blob/main/filter.json)** を**呼び出し**ます。
 
 6. 終わりました！
