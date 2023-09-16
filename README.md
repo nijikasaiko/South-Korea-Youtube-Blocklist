@@ -4,5 +4,5 @@
 </a>
 
 <a href="./lang/en-us.md">
-  <img title="View in English" src="./pics/usaflag.png width="96"/>
+  <img title="View in English" src="./pics/usaflag.png" width="96"/>
 </a>
