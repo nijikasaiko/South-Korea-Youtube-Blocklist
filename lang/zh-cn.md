@@ -1,3 +1,5 @@
+**使用百度翻译。如果有需要修复的问题，请创建一个issue。**
+
 [返回主存储库](https://github.com/nijikasaiko/South-Korea-Youtube-Blocklist)
 
 
