@@ -2,7 +2,7 @@
 
 # South-Korea-Youtube-Blocklist
 <a>
-  <img title="No South Korea Youtube ANYMORE!" src="./pics/nokr.jpg" width="96"/>
+  <img title="No South Korea Youtube ANYMORE!" src="https://github.com/nijikasaiko/South-Korea-Youtube-Blocklist/blob/main/pics/nokr.jpg" width="96"/>
 </a>
 
 Blocks South Korea Contents on Youtube using [BlockTube](https://github.com/amitbl/blocktube) Web Extension.
