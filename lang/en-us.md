@@ -11,7 +11,7 @@ Blocks South Korea Contents on Youtube using [BlockTube](https://github.com/amit
 ## Blocking Target
 ・**11186** Korean Characters on All of Videos, Channels, and Comments.
 
-・Channels and Comments **related to K-POP, K-Entertainment, etc**.
+・Videos, Channels, and Comments **related to K-POP, K-Entertainment, etc**.
 
 
 ## How to use
