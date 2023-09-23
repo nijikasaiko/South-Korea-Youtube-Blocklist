@@ -7,10 +7,12 @@
 
 Blocks South Korea Contents on Youtube using [BlockTube](https://github.com/amitbl/blocktube) Web Extension.
 
-## Blocking Target
-1. **11186** Korean Characters on All of Videos, Channels, and Comments.
 
-2. Channels and Comments **related to K-POP, K-Entertainment, etc**.
+## Blocking Target
+・**11186** Korean Characters on All of Videos, Channels, and Comments.
+
+・Channels and Comments **related to K-POP, K-Entertainment, etc**.
+
 
 ## How to use
 1. Click **[here](https://chrome.google.com/webstore/detail/blocktube/bbeaicapbccfllodepmimpkgecanonai)** to download BlockTube Chrome Extension.
