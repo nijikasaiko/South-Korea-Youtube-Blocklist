@@ -6,12 +6,13 @@
   <img src="https://github.com/nijikasaiko/South-Korea-Youtube-Blocklist/blob/main/pics/nokr.jpg" width="96"/>
 </a>
 
-
 韓国語に書かれているか韓国に関する動画やチャンネル、コメントなどをブロックします。
 
-## 機能
-1. **11186字**のハングル (共通)
-2. **K-POPに関する**チャンネルやコメントなど
+
+## ブロックの対象
+・**11186字**のハングル文字 (共通)
+
+・**K-POPに関する**動画やチャンネル、コメントなど
 
 
 ## 使い方
